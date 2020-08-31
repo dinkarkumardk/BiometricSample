@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BiometricSample</string>
+    <string name="title_home">Home</string>
+    <string name="title_biometric">Biometric</string>
+    <string name="title_biometric_pin">Biometric+Pin</string>
+    <string name="successfully_validated_biometric">You are eligible to see this message because you successfully validated yourself</string>
+    <string name="failed_biometric">You failed to validate your identity through biometric</string>
+    <string name="biometric_not_enabled">You Don\'t have Biometric enabled on you device, Please enable it to use secure validation</string>
+    <string name="biometric_not_present">You Don\'t have Biometric present.</string>
+</resources>
